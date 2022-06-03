@@ -1,0 +1,150 @@
+{
+    
+"candidatos": 
+    {"presidente":[
+       {
+      "id": 1,
+      "nome": "Jair Bolsonaro",
+      "numero": "22",
+      "partido": "PL",
+      "img": "https://exame.com/wp-content/uploads/2018/09/bolsoemotivo1.jpg"
+    },
+
+    {
+      "id": 2,
+      "nome": "João Dória",
+      "numero": "45",
+      "partido": "PSDB",
+      "img": "https://extra.globo.com/incoming/24560772-389-cd8/w488h275-PROP/doria.jpg"
+    },
+
+    {
+      "id": 3,
+      "nome": "Sérgio Moro",
+      "numero": "25",
+      "partido": "DEM",
+      "img": "https://www.ictq.com.br/images/3-licoes-do-juiz-sergio-moro-para-farmaceuticos.jpg"
+    },
+
+    {
+      "id": 4,
+      "nome": "Lula",
+      "numero": "13",
+      "partido": "PT",
+      "img": "https://static.poder360.com.br/2018/04/Lula-SergioLima-9out2017_-868x644.jpeg"
+    }
+  ],
+  "governador":[
+
+    {
+      "id": 1,
+      "nome": "Ratinho Junior",
+      "numero": "55",
+      "partido": "PSD",
+      "img": "https://www.opovo.com.br/noticiasimages/app/noticia_146418291334/2018/07/21/386904/ratinho-junior-divulacao.jpg"
+    },
+
+    {
+      "id": 2,
+      "nome": "Osmar Dias",
+      "numero": "12",
+      "partido": "PDT",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Osmar_dias.jpg"
+    },
+
+    {
+      "id": 3,
+      "nome": "Roberto Requião",
+      "numero": "15",
+      "partido": "PMDB",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Foto_oficial_de_Roberto_Requi%C3%A3o.jpg"
+    }
+
+
+  ],
+  "senador":[
+
+    {
+      "id": 1,
+      "nome": "Alváro Dias",
+      "numero": "456",
+      "partido": "PSDB",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Senadores_da_56%C2%AA_Legislatura_%2846341288774%29.jpg"
+    },
+
+    {
+      "id": 2,
+      "nome": "Oriovisto Guimarães",
+      "numero": "190",
+      "partido": "Podemos",
+      "img": "https://media.gazetadopovo.com.br/vozes/2018/05/oriovisto-ar-768x512-bac2ee70.jpg"
+    },
+
+    {
+      "id": 3,
+      "nome": "Flávio Arns",
+      "numero": "405",
+      "partido": "PSB",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Senador_Fl%C3%A1vio_Arns.jpg/1024px-Senador_Fl%C3%A1vio_Arns.jpg"
+    }
+
+
+  ],
+  "deputadoestadual":[
+
+    {
+      "id": 1,
+      "nome": "Leonaldo Paranhos",
+      "numero": "20123",
+      "partido": "PSC",
+      "img": "https://img.estadao.com.br/fotos/politica/eleicoes-2020/PR/FPR160000875409_div.jpg"
+    },
+
+    {
+      "id": 2,
+      "nome": "Marcio Pacheco",
+      "numero": "54123",
+      "partido": "PPL",
+      "img": "https://img.estadao.com.br/fotos/politica/eleicoes-2018/PR/FPR160000610029_div.jpg"
+    },
+
+    {
+      "id": 3,
+      "nome": "Edgar Bueno",
+      "numero": "12123",
+      "partido": "PDT",
+      "img": "https://eleicoes.poder360.com.br/media/fotos/2012/PR/160000031668.jpg"
+    }
+
+
+  ],
+  "deputadofederal":[
+
+    {
+      "id": 1,
+      "nome": "Tiririca",
+      "numero": "2212",
+      "partido": "PL",
+      "img": "https://www.camara.leg.br/internet/deputado/bandep/160976.jpgmaior.jpg"
+    },
+
+    {
+      "id": 2,
+      "nome": "Eduardo Bolsonaro",
+      "numero": "1712",
+      "partido": "PSL",
+      "img": "https://www.camara.leg.br/internet/deputado/bandep/92346.jpgmaior.jpg"
+    },
+
+    {
+      "id": 3,
+      "nome": "Hamilton Mourão",
+      "numero": "1012",
+      "partido": "Republicanos",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/24052019_Audi%C3%AAncia_com_o_Presidente_da_Confer%C3%AAncia_Consultiva_Pol%C3%ADtica_do_Povo_Chin%C3%AAs%2C_Senhor_Wang_Yang_-_47945706542.jpg"
+    }
+
+  ]
+  }
+  
+}
